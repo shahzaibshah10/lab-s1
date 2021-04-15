@@ -1,0 +1,50 @@
+element.style {
+}
+#imp {
+    margin-top: -170px;
+    width: 240px;
+    margin-right: 180px;
+    padding-left: 20px;
+    height: 100px;
+    float: right;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+body {
+    height: auto;
+    width: 100%;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    background: #F8F8F8;
+    overflow-x: hidden;
+}
+
+element.style {
+    z-index: 1000;
+    background-color: rgb(0, 86, 128);
+}
+#headerContainer {
+    background: #46b859 url(https://qau.edu.pk/wp-content/themes/twentyeleven/images/header_tile1.png) repeat-x;
+    _background: #46b859 url(https://qau.edu.pk/wp-content/themes/twentyeleven/images/header_tile_ie6.gif) repeat-x;
+}
+#headerContainer {
+    width: 100%;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+body {
+    height: auto;
+    width: 100%;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    background: #F8F8F8;
+    overflow-x: hidden;
+}
